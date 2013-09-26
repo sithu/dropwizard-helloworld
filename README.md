@@ -12,5 +12,3 @@ Service endpoint: http://localhost:8080/helloworld
 
 Admin: http://localhost:8081/
 
-Runs on port 9000
-
